@@ -11,7 +11,7 @@ Based in Savoy, IL
 
 I build software systems that need to be right — not just most of the time, but reliably, observably, and in ways that make failures easy to find and fix. Most of my career has been at the intersection of complex distributed platforms and quality engineering: building the automation that tells teams what is broken, the infrastructure that surfaces why, and the processes that prevent the same class of defect from returning.
 
-At Riverbed Technology (12 years), I owned quality engineering for Cloud SteelHead — a distributed cloud security SaaS platform — leading a team of engineers across three continents, building test automation frameworks from scratch, and driving the feedback loop between production incidents and development practice. Before that: platform quality at Yahoo's 40,000-node Hadoop infrastructure, protocol and security testing at Motorola, and embedded systems and test automation at Quantum Data.
+At Riverbed Technology (12 years), I owned quality engineering for Cloud SteelHead — a distributed cloud security SaaS platform — building test automation frameworks from scratch, and driving the feedback loop between production incidents and development practice. Before that: platform quality at Yahoo's 40,000-node Hadoop infrastructure, protocol and security testing at Motorola, and embedded systems and test automation at Quantum Data.
 
 I'm drawn to hard reliability problems in systems where failure has real consequences — and increasingly, to the intersection of AI-driven automation and physical systems.
 
