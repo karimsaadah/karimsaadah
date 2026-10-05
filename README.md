@@ -52,7 +52,7 @@ The [`lab-scheduler`](https://github.com/karimsaadah/lab-scheduler) project here
 
 - Email: karim_saadah@hotmail.com  
 - Location: Savoy, IL 61874
-- LinkedIn: [linkedin.com/in/Karim Saadah](https://www.linkedin.com/in/karim-saadah-bb961a4/)
+- LinkedIn: [linkedin.com/in/karim-saadah-bb961a4](https://www.linkedin.com/in/karim-saadah-bb961a4/)
 
 
 *Most of my production work is covered by NDA.*
